@@ -1,0 +1,93 @@
+body {
+    margin: 0 10%;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    color:black
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+h3 {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.container {
+    border: 2px solid black;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.container div {
+  display: inline-block;
+  margin: 10px;
+}
+
+.coolblue {
+    background-color: #2d5dcc;
+    color: #fff;
+    font-size: 20px;
+    padding: 50px;
+    width: 30%;
+}
+
+.pink {
+  background-color: #d957d9;
+  color: #000;
+  font-size: 20px;
+  padding: 50px;
+  width: 30%;
+}
+
+.mintgreen {
+  background-color: #4fe0b0;
+  color: #000;
+  font-size: 20px;
+  padding: 50px;
+  width: 30%;
+}
+
+.beige {
+  background-color: #efd9ca;
+  color: #000;
+  font-size: 20px;
+  padding: 50px;
+  width: 30%;
+}
+
+.sourcecodepro p {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.sourcecodepro h3 {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.nunitosans p {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.nunitosans h3 {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.poppins p {
+  font-family: 'Poppins', sans-serif;
+}
+
+.poppins h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
